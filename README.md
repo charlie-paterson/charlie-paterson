@@ -66,6 +66,12 @@
 </p>        
 <!--- stats (end) -->
 
+<!--icons and links-->
+<p align="center">
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/charlie-paterson?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/charlie-paterson?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -80,6 +86,13 @@
   </a>
 </p>
 
+## 🚀 **Work Experience** 
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Data Science Intern | [GrowIntern](https://www.linkedin.com/company/Growintern/) | Aug 2024 - Present |
+| Data Science Intern | [CognoRise InfoTech](https://www.linkedin.com/company/CognoRiseInfoTech/) | Jul 2024 - Aug 2024 |
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -91,9 +104,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/charliepaterson1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  
+<a href="https://www.linkedin.com/in/charliepaterson1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
 </p>
 
 
