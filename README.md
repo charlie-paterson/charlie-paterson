@@ -104,7 +104,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,latex,matlab,github,mysql,opencv,ps,py,stackoverflow,sklearn&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,latex,matlab,github,cpp,mysql,opencv,ps,py,stackoverflow,sklearn&perline=14" />
   </a>
 </p>
 
