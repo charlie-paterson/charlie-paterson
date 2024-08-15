@@ -8,7 +8,6 @@
   </ul>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -16,6 +15,11 @@
   </ul>
 </div>
 
+<!--icons and links-->
+<p align="center">
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/charlie-paterson?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/charlie-paterson?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 <!--Intro start-->
 - 🔭 I’m currently working on: **a machine learning algorithm for a movie recommendation system.**
@@ -31,30 +35,55 @@
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [charliepaterson1](https://www.linkedin.com/in/charliepaterson1/) my username!
 <!--Intro end-->
 
-
+<br />
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=charlie-paterson&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charlie-paterson&theme=dark&hide_border=false" /> 
-</td>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=charlie-paterson&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/charlie-paterson">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie-paterson&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/charlie-paterson">
+          <img align="center" src="https://streak-stats.demolab.com?user=charlie-paterson&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/charlie-paterson/CognoRise-Infotech">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=charlie-paterson&repo=CognoRise-InfoTech&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/charlie-paterson">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=charlie-paterson&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
+<br />
 
 <!--- trophy (start) -->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=charlie-paterson&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -65,12 +94,6 @@
 
 </p>        
 <!--- stats (end) -->
-
-<!--icons and links-->
-<p align="center">
-<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/charlie-paterson?label=Followers&style=social"> • 
-<img src="https://img.shields.io/github/stars/charlie-paterson?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
 
 
 <!--h1 without bottom border-->
@@ -86,6 +109,8 @@
   </a>
 </p>
 
+<br />
+
 ## 🚀 **Work Experience** 
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
@@ -93,6 +118,7 @@
 | Data Science Intern | [GrowIntern](https://www.linkedin.com/company/Growintern/) | Aug 2024 - Present |
 | Data Science Intern | [CognoRise InfoTech](https://www.linkedin.com/company/CognoRiseInfoTech/) | Jul 2024 - Aug 2024 |
 
+<br />
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
