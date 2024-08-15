@@ -1,11 +1,11 @@
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Charlie</h1></summary>
   </ul>
 </div>
+
+-----
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -34,7 +34,7 @@
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [charliepaterson1](https://www.linkedin.com/in/charliepaterson1/) my username!
 <!--Intro end-->
 
-<br />
+-----
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -79,7 +79,8 @@
     </td>
   </tr>
 </table>
-<br />
+
+-----
 
 <!--- trophy (start) -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -94,6 +95,7 @@
 </p>        
 <!--- stats (end) -->
 
+-----
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -108,7 +110,7 @@
   </a>
 </p>
 
-<br />
+-----
 
 ## 🚀 **Work Experience** 
 
@@ -116,6 +118,8 @@
 | :-: | :-: | :-: |
 | Data Science Intern | [GrowIntern](https://www.linkedin.com/company/Growintern/) | Aug 2024 - Present |
 | Data Science Intern | [CognoRise InfoTech](https://www.linkedin.com/company/CognoRiseInfoTech/) | Jul 2024 - Aug 2024 |
+
+-----
 
 <br />
 
