@@ -24,7 +24,7 @@
 
 - ☁️ I've keen interest in Data Science
 
-- 💬 Ask me about **anything data science related**
+- 💬 Ask me about anything data science related [here](https://github.com/charlie-paterson/charlie-paterson/issues/1)
 
 - 📫 Feel free to reach me out **charlie_paterson@rocketmail.com**
 
