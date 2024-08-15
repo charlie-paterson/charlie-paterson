@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Skills
 
-- ![Python](assets/python.svg) **Python**: Experienced in Python for data analysis and web development.
+- ![Python](assets/python.jpg) **Python**: Experienced in Python for data analysis and web development.
