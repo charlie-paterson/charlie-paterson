@@ -23,7 +23,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on: **a machine learning algorithm for a movie recommendation system.**
 
-- 🌱 I’m currently learning: **how to machine learn with NLTK**
+- 🌱 I’m currently learning: **how to deep learn with MATLAB's Neural Network**
 
 - ☁️ I've keen interest in Data Science
 
