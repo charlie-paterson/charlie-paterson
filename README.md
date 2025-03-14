@@ -21,7 +21,7 @@
 </p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on: **a machine learning algorithm for a movie recommendation system.**
+- 🔭 I’m currently working on: **a front end development creating a webpage of an animal encyclopedia**
 
 - 🌱 I’m currently learning: **how to deep learn with MATLAB's Neural Network**
 
