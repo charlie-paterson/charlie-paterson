@@ -64,16 +64,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/charlie-paterson/CognoRise-Infotech">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=charlie-paterson&repo=CognoRise-InfoTech&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/charlie-paterson">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=charlie-paterson&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/charlie-paterson/kubernetes-training">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=charlie-paterson&repo=kubernetes-training&theme=nightowl&show_owner=true" alt="Kubernetes Project" />
         </a>
       </p>
     </td>
