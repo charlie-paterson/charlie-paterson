@@ -82,15 +82,15 @@
 </div>
 <b>Operating Systems</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,windows&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,windows&perline=5" /> </a> </p>
 
-<b>Version Control & Automation</b>
+<b>Version Control, CI/CD & IaC</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,ansible&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,ansible,terraform&perline=5" /> </a> </p>
 
 <b>Containerisation & Orchestration</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=5" /> </a> </p>
 
 <b>Cloud</b>
 
@@ -98,11 +98,11 @@
 
 Monitoring & Observability
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=grafana&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=5" /> </a> </p>
 
 <b>Programming & Data</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bash,cpp,py,matlab,mysql,sklearn,html,css&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bash,powershell,cpp,py,php,matlab,mysql,dynamodb,sklearn,html,css,js,flask&perline=5" /> </a> </p>
 
 -----
 
