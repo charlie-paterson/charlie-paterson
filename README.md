@@ -21,15 +21,15 @@
 </p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on: **a front end development creating a webpage of an animal encyclopedia**
+- 🔭 I’m currently working on: **Kubernetes HPA Cluster**
 
-- 🌱 I’m currently learning: **how to deep learn with MATLAB's Neural Network**
+- 🌱 I’m currently learning: **Kubernetes**
 
-- ☁️ I've keen interest in Data Science
+- ☁️ I've keen interest in Infrastructure and DevOps
 
 - 💬 Ask me about anything data science related [here](https://github.com/charlie-paterson/charlie-paterson/issues/1)
 
-- 📫 Feel free to reach me out **charlie_paterson@rocketmail.com**
+- 📫 Feel free to reach me out **cpaterson128@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [charliepaterson1](https://www.linkedin.com/in/charliepaterson1/) my username!
 <!--Intro end-->
