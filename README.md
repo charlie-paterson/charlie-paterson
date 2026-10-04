@@ -80,25 +80,29 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<b>Version Control and Automation</b>
+<b>Operating Systems</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,ansible,docker,kubernetes&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,windows&perline=5" /> </a> </p>
+
+<b>Version Control & Automation</b>
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,ansible&perline=5" /> </a> </p>
+
+<b>Containerisation & Orchestration</b>
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=5" /> </a> </p>
 
 <b>Cloud</b>
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=aws,azure&perline=5" /> </a> </p>
 
-Programming & Data
-
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cpp,py,matlab,mysql,sklearn,html,css&perline=5" /> </a> </p>
-
 Monitoring & Observability
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=grafana&perline=5" /> </a> </p>
 
-Operating Systems
+<b>Programming & Data</b>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,windows&perline=5" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bash,cpp,py,matlab,mysql,sklearn,html,css&perline=5" /> </a> </p>
 
 -----
 
