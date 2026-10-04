@@ -74,21 +74,6 @@
 
 -----
 
-<!--- trophy (start) -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=charlie-paterson&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
------
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -98,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,latex,matlab,github,cpp,mysql,opencv,ps,py,html,css,stackoverflow,sklearn&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,latex,matlab,github,cpp,mysql,opencv,ps,py,html,css,grafana,docker, kubernetes,linux,windows,sklearn&perline=14" />
   </a>
 </p>
 
