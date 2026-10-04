@@ -106,15 +106,6 @@ Monitoring & Observability
 
 -----
 
-## 🚀 **Work Experience** 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Data Science Intern | [GrowIntern](https://www.linkedin.com/company/Growintern/) | Aug 2024 - Present |
-| Data Science Intern | [CognoRise InfoTech](https://www.linkedin.com/company/CognoRiseInfoTech/) | Jul 2024 - Aug 2024 |
-
------
-
 <br />
 
 <!-- Connect with me -->
